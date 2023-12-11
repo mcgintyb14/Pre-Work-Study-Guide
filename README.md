@@ -2,7 +2,7 @@
 
 ## Description
 
-To create an easily digestible study guide for Bootcamp students, I created this web page and associated repo which containts key notes of the four main topics we have covered in the Prework: HTML, CSS, Git, and JavaScript. Through doing this, I have provided a single page of reference for Bootcamp students to easily find key notes without having to look back through modules or personal notes on their desktop. 
+To create an easily digestible study guide for Bootcamp students, I created this web page and associated repository which contains key notes of the four main topics we have covered in the Prework: HTML, CSS, Git, and JavaScript. Through doing this, I have provided a single page of reference for Bootcamp students to easily find key notes without having to look back through modules or personal notes on their desktop. 
 
 From my work on this project, I learned a lot about web development and how to build a web page from scratch, starting withg HTML code to build the "foundation" of your web page; followed with "CSS" to determine the style of the webpage and its contents; lastly, I learned how JavScript can also be linked to the HTML file to provide interactivity for the website. 
 
