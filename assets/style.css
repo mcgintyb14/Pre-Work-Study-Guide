@@ -12,6 +12,14 @@ footer {
     -webkit-text-fill-color: white;
 }
 
+h1 {
+    font-size: larger;
+}
+
+h2 {
+    font-size: small;
+}
+
 h1,
 h2,
 h3 {
